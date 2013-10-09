@@ -1,2 +1,2 @@
-hello world!! by nemunemu
-add by master
+after the great merge, "hello world" has vanished forever.
+edited on master
